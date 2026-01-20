@@ -126,3 +126,37 @@ These screenshots show the cleanup process after testing was completed.
 The shared directory and files were removed to return the system to a clean state.
 This marks the proper completion of the lab activity.
 
+9️⃣ Extracting the Gutenberg Archive
+<p align="center"> <img src="1B-3(STEP1).png" width="70%"> </p>
+
+These screenshots show the extraction of the Gutenberg archive using Linux command-line tools.
+The compressed archive was successfully decompressed and extracted into a directory.
+This confirms that archive handling and extraction were completed correctly.
+
+🔟 Listing and Exploring Extracted Files
+<p align="center"> <img src="./1B-3(STEP2).png" width="70%"> </p>
+
+These screenshots demonstrate listing the contents of the extracted Gutenberg directory.
+The file structure was viewed to confirm that text files were extracted successfully.
+This step verifies the integrity of the extracted archive.
+
+1️⃣1️⃣ Searching Files by Name
+<p align="center"> <img src="./1B-3(STEP3).png" width="70%"> </p>
+
+These screenshots show searching for files based on filename patterns within the directory.
+This demonstrates how Linux commands can locate files using extensions or names.
+Filename searching is useful when managing large collections of files.
+
+1️⃣2️⃣ Searching Text Content Within Files
+<p align="center"> <img src="./1B-3(STEP4).png" width="70%"> </p>
+
+These screenshots demonstrate searching for specific text content within files.
+The search was performed across multiple files to locate matching words or phrases.
+This technique is essential for analysing large text datasets.
+
+1️⃣3️⃣ Context-Based and Advanced File Searching
+<p align="center"> <img src="./1B-3(STEP5).png" width="70%"> </p>
+
+These screenshots show advanced searching techniques, including viewing surrounding text and analysing results.
+Context-based searching helps identify relevant information within large files.
+This step completes the required file analysis and search tasks for the lab.
