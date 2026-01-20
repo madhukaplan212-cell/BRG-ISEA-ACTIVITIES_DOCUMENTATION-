@@ -122,41 +122,80 @@ This confirms that access control rules were applied correctly.
 8️⃣ Cleanup and Verification
 <p align="center"> <img src="./1B-2(10).png" width="70%"> </p>
 
-These screenshots show the cleanup process after testing was completed.
+This screenshot show the cleanup process after testing was completed.
 The shared directory and files were removed to return the system to a clean state.
 This marks the proper completion of the lab activity.
 
 9️⃣ Extracting the Gutenberg Archive
 <p align="center"> <img src="1B-3(STEP1).png" width="70%"> </p>
 
-These screenshots show the extraction of the Gutenberg archive using Linux command-line tools.
+This screenshot show the extraction of the Gutenberg archive using Linux command-line tools.
 The compressed archive was successfully decompressed and extracted into a directory.
 This confirms that archive handling and extraction were completed correctly.
 
 🔟 Listing and Exploring Extracted Files
 <p align="center"> <img src="./1B-3(STEP2).png" width="70%"> </p>
 
-These screenshots demonstrate listing the contents of the extracted Gutenberg directory.
+This screenshot demonstrate listing the contents of the extracted Gutenberg directory.
 The file structure was viewed to confirm that text files were extracted successfully.
 This step verifies the integrity of the extracted archive.
 
 1️⃣1️⃣ Searching Files by Name
 <p align="center"> <img src="./1B-3(STEP3).png" width="70%"> </p>
 
-These screenshots show searching for files based on filename patterns within the directory.
+This screenshot show searching for files based on filename patterns within the directory.
 This demonstrates how Linux commands can locate files using extensions or names.
 Filename searching is useful when managing large collections of files.
 
 1️⃣2️⃣ Searching Text Content Within Files
 <p align="center"> <img src="./1B-3(STEP4).png" width="70%"> </p>
 
-These screenshots demonstrate searching for specific text content within files.
+This screenshot  demonstrate searching for specific text content within files.
 The search was performed across multiple files to locate matching words or phrases.
 This technique is essential for analysing large text datasets.
 
-1️⃣3️⃣ Context-Based and Advanced File Searching
-<p align="center"> <img src="./1B-3(STEP5).png" width="70%"> </p>
+Session 2B - PM
+------------------------------
 
-These screenshots show advanced searching techniques, including viewing surrounding text and analysing results.
-Context-based searching helps identify relevant information within large files.
-This step completes the required file analysis and search tasks for the lab.
+1️⃣ Cloud Platform Access / VM Environment Setup
+<p align="center"> <img src="./Screenshot 2026-01-20 192747.png" width="70%"> </p><p align="center"> <img src="Screenshot 2026-01-15 175220.png" width="70%"> </p>
+
+These screenshots shows access to the virtual machine or cloud environment used for the lab.
+The environment was successfully accessed and prepared for further configuration tasks.
+This confirms that the system was ready for cloud-based operations.
+
+2️⃣ Creating and Launching a Cloud Virtual Machine
+<p align="center"> <img src="Screenshot 2026-01-18 103323.png" width="70%"> </p>
+<p align="center"> <img src="Screenshot 2026-01-15 180113.png" width="70%"> </p><p align="center"> <img src="Screenshot 2026-01-15 180458.png" width="70%"> </p><p align="center"> <img src="Screenshot 2026-01-15 180541.png" width="70%"> </p>
+<p align="center"> <img src="Screenshot 2026-01-18 103404.png" width="70%"> </p>
+
+These screenshots shows the creation and launching of a virtual machine instance.
+The instance was configured with the required operating system and default settings.
+This step verifies successful deployment of a cloud-based virtual server.
+
+3️⃣ Connecting to the Virtual Machine (SSH)
+<p align="center"> <img src="Screenshot 2026-01-15 191408.png" width="70%"> </p><p align="center"> <img src="Screenshot 2026-01-16 114924.png" width="70%"> </p>
+
+These screenshots shows a successful connection to the virtual machine using the command line.
+This confirms that the virtual machine is reachable and operational. 
+Since i had 2 accounts the pem key has a different name but after these activities i used the other pem key that would be mentioned in the following activities. 
+
+4️⃣Installing Apache Web Server via CLI
+<p align="center"> <img src="Screenshot 2026-01-16 120004.png" width="70%"> </p><p align="center"> <img src="./Screenshot 2026-01-16 120015.png" width="70%"> </p><p align="center"> <img src="Screenshot 2026-01-16 120154.png" width="70%"> </p><p align="center"> <img src="Screenshot 2026-01-16 121838.png" width="70%"> </p>
+
+This screenshot shows the installation of the Apache web server using the command line.
+The required packages were installed successfully on the virtual machine.
+This prepares the system for hosting a web application.
+
+5️⃣Bash scripting
+<p align="center"> <img src="STEP 1.png" width="70%"> </p><p align="center"> <img src="STEP 3.png" width="70%"> </p>
+<p align="center"> <img src="STEP 4.png" width="70%"> </p>
+<p align="center"> <img src="STEP 6.png" width="70%"> </p><p align="center"> 
+This is the first screenshot after the command. I didnt add the middle parts as it there are many. 
+
+<img src="STEP 11.png" width="70%"> </p>
+This is the last screenshot after the command. 
+
+<p align="center"> <img src="STEP 12.png" width="70%"> </p><p align="center"> <img src="STEP 13.png" width="70%"> </p><p align="center"> <img src="STEP 6.png" width="70%"> </p><p align="center"> <img src="STEP 14.png" width="70%"> </p>
+
+These screenshots are bash scripting. 
