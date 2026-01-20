@@ -199,3 +199,19 @@ This is the last screenshot after the command.
 <p align="center"> <img src="STEP 12.png" width="70%"> </p><p align="center"> <img src="STEP 13.png" width="70%"> </p><p align="center"> <img src="STEP 6.png" width="70%"> </p><p align="center"> <img src="STEP 14.png" width="70%"> </p>
 
 These screenshots are bash scripting. 
+
+Session 3A - AM
+------------------------------
+1️⃣ Domain Setup and DNS Resolution
+<p align="center"> <img src="DuckDns.png" width="70%"> </p> <p align="center"> <img src="./STEP 103A.png" width="70%"> </p>
+
+A DuckDNS domain was created and linked to the public IP address of the AWS EC2 instance.
+DNS resolution was verified from the terminal to ensure the domain correctly points to the server.
+This step confirms that the domain is ready to be used with the web server.
+
+2️⃣Apache Web Server Installation and HTTP Access
+<p align="center"> <img src="STEP 113A.png" width="70%"> </p> <p align="center"> <img src="./STEP 123A.png" width="70%"> </p>
+
+Apache web server was installed on the Ubuntu EC2 instance.
+The website was accessed using HTTP to confirm Apache was running correctly.
+This verifies basic web hosting functionality before applying security.
