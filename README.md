@@ -69,7 +69,7 @@ The terminal was accessed to interact with the system using command-line input.
 These screenshots demonstrate successful access to and use of the Linux terminal.
 The command line is an essential tool for system navigation and administration.
 
-Session 1B 
+Session 1B - PM
 ------------------------------
 
 1️⃣ Viewing Linux Services
@@ -90,4 +90,18 @@ This demonstrates basic service installation and verification in Linux.
 These screenshots show the execution of additional Linux commands using the terminal.
 The commands were run to practice interacting with the Linux system and viewing outputs.
 This helps build familiarity with basic command-line operations in Ubuntu.
+
+4️⃣ User and Group Creation
+<p align="center"> <img src="./1B-2(ALICE)1.png" width="70%"> </p> <p align="center"> <img src="./1B-2(BOB)2.png" width="70%"> </p> <p align="center"> <img src="./1B-2(MALLORY)3.png" width="70%"> </p> <p align="center"> <img src="./1B-2(SHAREDGROUP)4.png" width="70%"> </p>
+
+These screenshots show the creation of multiple users and a shared group in Linux.
+Users alice, bob, and mallory were created, and a shared group was set up to manage access control.
+This forms the foundation for testing file permissions and group-based access.
+
+5️⃣Creating a Shared Directory and Files
+<p align="center"> <img src="./1B-2(5).png" width="70%"> </p> <p align="center"> <img src="./1B-2(6).png" width="70%"> </p>
+
+These screenshots demonstrate the creation of a shared directory and multiple files within it.
+The directory was prepared to be accessed by users belonging to the shared group.
+This step ensures that files are available for permission testing.
 
