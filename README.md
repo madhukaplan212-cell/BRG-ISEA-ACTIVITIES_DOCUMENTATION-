@@ -213,15 +213,17 @@ This step confirms that the domain is ready to be used with the web server.
 <p align="center"> <img src="STEP 43A.png" width="70%"> </p> <p align="center"> <img src="./STEP 53A.png" width="70%"> </p>
 <p align="center"> <img src="STEP 63A.png" width="70%"> </p>
 <p align="center"> <img src="STEP 73A.png" width="70%"> </p>
-<p align="center"> <img src="./STEP 123A.png" width="70%"> </p>
+<p align="center"> <img src="STEP 83A.png" width="70%"> </p>
 
 Apache web server was installed on the Ubuntu EC2 instance.
 The website was accessed using HTTP to confirm Apache was running correctly.
 This verifies basic web hosting functionality before applying security.
 
 SSL Certificate Installation using Certbot
-<p align="center"> <img src="STEP 133A.png" width="70%"> </p> <p align="center"> <img src="STEP 13AA.png" width="70%"> </p> <p align="center"> <img src="STEP 143A.png" width="70%"> </p>
+<p align="center"> <img src="STEP 113A.png" width="70%"> </p> <p align="center"> <img src="STEP 123A.png" width="70%"> </p> <p align="center"> <img src="STEP 133A.png" width="70%"> </p><p align="center"> <img src="STEP 143A.png" width="70%"> </p><p align="center"> <img src="STEP 153A.png" width="70%"> </p><p align="center"> <img src="STEP 163A.png" width="70%"> </p><p align="center"> <img src="STEP 173A.png" width="70%"> </p>
 
-Certbot was installed to obtain an SSL certificate from Let’s Encrypt.
-An SSL certificate was successfully generated and deployed to Apache.
-This enables encrypted HTTPS communication for the website.
+There was an error and i had to debug using some commands and I got the CertBot certificate. 
+
+
+
+
