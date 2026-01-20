@@ -105,3 +105,24 @@ These screenshots demonstrate the creation of a shared directory and multiple fi
 The directory was prepared to be accessed by users belonging to the shared group.
 This step ensures that files are available for permission testing.
 
+6️⃣ Setting Ownership and Permissions
+<p align="center"> <img src="./1B-2(10).png" width="70%"> </p> <p align="center"> <img src="./1B-2(11).png" width="70%"> </p>
+
+These screenshots show ownership and permission settings being applied to the shared directory and files.
+Permissions were configured to control read, write, and execute access.
+This step was critical for the enforcement of secure access control in Linux systems.
+
+7️⃣ Access Testing as Different Users
+<p align="center"> <img src="./1B-2(ALICE)7.png" width="70%"> </p> <p align="center"> <img src="./1B-2(BOB)8.png" width="70%"> </p> <p align="center"> <img src="./1B-2(MALLORY)9.png" width="70%"> </p>
+
+These screenshots demonstrate access testing by switching between different users.
+Each user’s ability to access the shared directory was verified based on assigned permissions.
+This confirms that access control rules were applied correctly.
+
+8️⃣ Cleanup and Verification
+<p align="center"> <img src="./1B-2(10).png" width="70%"> </p>
+
+These screenshots show the cleanup process after testing was completed.
+The shared directory and files were removed to return the system to a clean state.
+This marks the proper completion of the lab activity.
+
