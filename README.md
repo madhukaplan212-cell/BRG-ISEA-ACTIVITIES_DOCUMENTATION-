@@ -154,6 +154,102 @@ This screenshot  demonstrate searching for specific text content within files.
 The search was performed across multiple files to locate matching words or phrases.
 This technique is essential for analysing large text datasets.
 
+Session 2A - AM
+------------------------------
+TCO (Total Cost of Ownership):
+•	Context and Scope –
+This activity focuses on applying the Total Cost of Ownership (TCO) concept to physical IT assets, using office printers as the evaluation scenario. Rather than comparing cloud service providers, the analysis estimates long-term ownership costs of different printer models. My aim is to support procurement decisions by looking beyond upfront purchase price and considering recurring operational expenses over time.
+•	Company profile and assumptions –
+For this analysis, a hypothetical organization, Company A, is considered. 
+Company A relies on printed materials for internal business meetings and documentation. The following assumptions are used to ensure consistency across all calculations:
+o	Average printing volume: 140 pages per week 
+o	Annual printing volume: 6850 pages (single-sided only)
+o	No scanning or digitization of documents
+o	Printer lifespan: 5 years
+o	Operating schedule is powered on but idle during office hours (Monday-Friday, 8.00 am-6.00 pm), it’s active printing hours is 940 hrs/year and the idle/standby hours: 1410 hrs/year. 
+o	Colour usage is evenly used across CMY cartridges and the Black ink/toner used is approximately three times more than colour.
+These assumptions are intentionally conservative and reflect a small-to-medium office environment. 
+•	Annual Consumables and Usage –
+Based on the assumptions above:
+o	Paper usage: 6850 sheets per year
+o	Total paper usage over 5 years: 34,250 sheets
+o	The printer usage behaviour is that printing occurs in short bursts throughout the workday, it remains idle or in standby mode for the majority of office hours and continuous printing across the entire active period is not assumed, as this would not reflect typical office usage. 
+
+•	Printers selected for comparison –
+o	Brother MFC-J3940DW (InkJet) - $718
+o	HP Color LaserJet Pro MFP 3303fdw (Laser) - $599
+o	Brother HL-L3240CDW (Laser) - $368
+o	Brother HL-L3230CDN (Laser) - $358 (discontinued during documentation update) 
+
+•	Key specifications summary –
+Brother MFC-J3940DW (InkJet):
+o	Black Yield: ~ 3000 pages ($54 per cartridge)
+o	Colour Yield: ~ 1500 pages ($92 per CMY pack)
+o	Estimated annual replacements: 2 black cartridges, 1 colour pack
+o	Power consumption: Active is 5.5 W, Idle is 0.9 W, Off is 0.03 W
+o	Print speed: ~ 28 IPM
+o	Paper Capacity: 500 sheets
+o	Supports up to A3 printing 
+o	Includes scanning and fax functionality.
+      HP Color LaserJet Pro MFP 3303fdw (Laser):
+o	Black Yield: ~ 3200 pages ($144 per cartridge)
+o	Colour Yield: ~ 2500 pages ($165.40 per CMY pack)
+o	Estimated annual replacements: 2 black cartridges annually, colour every second year
+o	Power consumption: Printing is 416 W, Ready is 7.6 W, Idle is 0.95 W
+o	Print speed: ~ 25 PPM
+o	Paper Capacity: 500 sheets
+o	Supports up to A4 printing 
+o	Includes scanning and fax functionality.
+
+Brother HL-L3240CDW (Laser):
+o	Black Yield: ~ 3000 pages ($117 per cartridge)
+o	Colour Yield: ~ 2300 pages ($138 per CMY pack)
+o	Estimated annual replacements: 2 black cartridges annually, colour every second year
+o	Drum replacement not required within 5 years (rated ~ 50,000 pages)
+o	Power consumption: Printing is 70 W, Idle is 10 W
+o	Print speed: ~ 26 PPM
+o	Paper Capacity: 250 sheets
+o	Supports up to A4 printing 
+
+     Brother HL-L3230CDN (Laser)
+o	Similar toner yields to HL-3240CDW
+o	Drum replacement not required within 5 years (rated ~ 18,000 pages)
+o	Slightly slower printer speed (~18 PPM)
+
+•	Cost components –
+Paper costs: 
+Total paper usage over five years is approximately 34,250 sheets, equivalent to 68.5 reams. 
+Assuming a bulk contract with PaperOne:
+•	100 reams at $3.45 per ream = $345
+•	Effective paper cost used: ~$236.33
+Power costs: 
+Electricity costs were calculated in line with the activity requirements and typical office usage patterns. Rather that assuming continuous printing, the model assumes: 
+•	Short print jobs spread across the workday 
+•	Idle or ready mode as the dominant operational state
+•	Printing power draw applied only during actual print activity
+This approach ensures that electricity usage remains realistic and proportional across all printers. As expected in a low-to-moderate print volume environment, power consumption contributes a relatively small portion of overall TCO when compared to consumables such as toner, ink, and paper. 
+•	Total Cost of Ownership (5-Year Estimate) –
+Using the assumptions defined above and applying consistent calculation methods, the estimated five-year Total Cost of Ownership (excluding maintenance and inflation) can be summarized as follows: 
+o	Brother MFC-J3940DW (InkJet): Moderate TCO due to higher ink cost per page but very low power consumption. 
+
+o	HP Color LaserJet Pro MFP 3303fdw (Laser): Higher TCO driven mainly by enterprise – grade toner costs rather than electricity usage.
+
+o	Brother HL-L3240CDW (Laser): Lowest overall TCO due to balanced toner pricing, efficient power usage, and no drum replacement within the analysis period. 
+
+o	Brother HL-L3230CDN (Laser): (discontinued during documentation update): Slightly higher TCO than HL-L3240CDW as a result of drum replacement requirements over five years.
+
+Across all models, consumables (toner/ink and paper) represent the most significant portion of ownership cost, while electricity usage remains a secondary factor under realistic operating conditions. 
+
+•	Conclusion –
+Based on the assumptions and calculations, the Brother HL-L3240CDW Laser Printer presents the lowest Total Cost of Ownership for Company A over a five-year period. While it lacks advanced features such as scanning or A3 printing, its balance of low power consumption, reasonable toner pricing, and reliability makes it the most cost-effective option for the defined workload. 
+
+•	Reflection –
+The results highlight how printer suitability varies significantly with usage patterns. For home user printing fewer than five pages per day, the TCO outcome would change substantially. In such a scenario, the HL-L3230CDN would likely be more economical due to its lower upfront cost and minimal consumable usage, particularly if the printer is powered off when not in use. 
+Beyond cost, other qualitative factors must be also considered. Print capability, media support, compatibility with operating systems, and reliability all influence procurement decisions. For example, a creative or design-focused organisation may prioritise colour accuracy and large-format printing, making an inkjet printer such as the MFC-J3940DW more suitable despite its higher consumable costs.
+For larger workgroups, attributes such as high pages-per-minute (PPM), large paper trays, and proven reliability become critical. These reduce downtime, minimise user waiting time, and lower indirect productivity losses. Assuming no abnormal failure rates, the relative TCO differences between printers remain consistent; however frequent breakdowns or high maintenance requirements can quickly negate any apparent cost advantage. 
+Overall, this exercise demonstrates that TCO is a practical and necessary tool for informed IT asset selection, particularly when evaluating long-term operational impacts rather than short-term savings. 
+
+
 Session 2B - PM
 ------------------------------
 
