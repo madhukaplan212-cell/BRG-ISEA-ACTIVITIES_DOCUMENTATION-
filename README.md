@@ -5,4 +5,4 @@ Here is the list of activities i have performed during this semester
 
 **pwd** shows me the current directory i am in
 
-![pwd command output](./1A-2_HOME.png)
+<img src="./1A-2 HOME.png" alt="pwd command output" width="70%">
