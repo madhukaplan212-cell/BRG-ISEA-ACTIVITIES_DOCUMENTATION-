@@ -222,7 +222,7 @@ This verifies basic web hosting functionality before applying security.
 3️⃣ SSL Certificate Installation using Certbot
 <p align="center"> <img src="STEP 113A.png" width="70%"> </p> <p align="center"> <img src="STEP 123A.png" width="70%"> </p> <p align="center"> <img src="STEP 133A.png" width="70%"> </p><p align="center"> <img src="STEP 143A.png" width="70%"> </p><p align="center"> <img src="STEP 153A.png" width="70%"> </p><p align="center"> <img src="STEP 163A.png" width="70%"> </p><p align="center"> <img src="STEP 173A.png" width="70%"> </p>
 
-There was an error and i had to debug using some commands and I got the CertBot certificate. These screenshots covers that section. 
+There was an error and i had to debug using some commands and I got the CertBot certificate and this was done by restarting apache2. These screenshots covers that section. 
 
 
 
