@@ -4,9 +4,8 @@ This document contains the screenshot and output of all lab activities completed
 
 Session 1a - AM
 
-
-*************************************************************************************************************
-
+------------------------------
+</br>
 <p align="center"> <img src="./Screenshot 2026-01-19 221039.png" width="70%"> </p>
 
 A GitHub account was created and a new repository was set up to document all lab activities.
