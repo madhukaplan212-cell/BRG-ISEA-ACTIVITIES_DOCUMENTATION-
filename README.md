@@ -68,3 +68,26 @@ LibreOffice Writer can be used to create and edit documents within the Linux sys
 The terminal was accessed to interact with the system using command-line input.
 These screenshots demonstrate successful access to and use of the Linux terminal.
 The command line is an essential tool for system navigation and administration.
+
+Session 1B 
+------------------------------
+
+1️⃣ Viewing Linux Services
+<p align="center"> <img src="1B-1(2).png" width="70%"> </p> <p align="center"> <img src="1B-1(3).png" width="70%"> </p>
+
+
+2️⃣ Installing and Verifying a Service (Apache)
+
+<p align="center"> <img src="1B-1(APACHE INSTALLATION).png" width="70%"> </p><p align="center"> <img src="1B-1(APACHE INSTALLATION)2.png" width="70%"> </p><p align="center"> <img src="1B-1(APACHE INSTALLATION)OUTPUT.png" width="70%"> 
+
+A service was installed on the Ubuntu system and verified after installation.
+The output confirms that the service was successfully installed and is running.
+This demonstrates basic service installation and verification in Linux.
+
+3️⃣ Additional Linux Commands Executed
+<p align="center"> <img src="IB-1(SCRIPT) 3.png" width="70%"> </p> <p align="center"> <img src="IB-1(SCRIPT) 4.png" width="70%"> </p> <p align="center"> <img src="IB-1(SCRIPT) 5.png" width="70%"> </p> <p align="center"> <img src="IB-1(SCRIPT) 6.png" width="70%"> </p> <p align="center"> <img src="IB-1(SCRIPT) 7.png" width="70%"> </p> <p align="center"> <img src="IB-1(SCRIPT) 8.png" width="70%"> </p> <p align="center"> <img src="IB-1(SCRIPT) 9.png" width="70%"> </p> <p align="center"> <img src="IB-1(SCRIPT) 10.png" width="70%"> </p> <p align="center"> <img src="IB-1(SCRIPT) 11.png" width="70%"> </p> <p align="center"> <img src="IB-1(SCRIPT) 12.png" width="70%"> </p> <p align="center"> <img src="IB-1(SCRIPT) 13.png" width="70%"> </p>
+
+These screenshots show the execution of additional Linux commands using the terminal.
+The commands were run to practice interacting with the Linux system and viewing outputs.
+This helps build familiarity with basic command-line operations in Ubuntu.
+
