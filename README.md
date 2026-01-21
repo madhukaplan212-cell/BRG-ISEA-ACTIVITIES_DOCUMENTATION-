@@ -32,8 +32,8 @@ It confirms that the virtual machine has booted correctly into the graphical use
 From this desktop, system applications and tools can be accessed.
 
 4️⃣ Navigating the Ubuntu File System (GUI)
-<p align="center"> <img src="1A-2 HOME-1.png" width="70%"> </p> <p align="center"> <img src="1A-2 DESKTOP.png" width="70%"> </p>
-<p align="center"> <img src="1A-2 DOWNLOADS-1.png" width="70%"> </p>
+<p align="center"> <img src="1A-2 HOME.png" width="70%"> </p> <p align="center"> <img src="1A-2 DESKTOP.png" width="70%"> </p>
+<p align="center"> <img src="1A-2 DOWNLOADS.png" width="70%"> </p>
 
 The Ubuntu file manager was used to navigate directories such as Home and Downloads.
 This demonstrates basic familiarity with the graphical file system in Ubuntu.
