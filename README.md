@@ -13,7 +13,7 @@ Session 1a - AM
 
 A GitHub account was created and a new repository was set up to document all lab activities.
 As I had no prior experience using GitHub, the web interface was used to create and manage the repository.
-This repository is used to store screenshots and written documentation for each lab session.
+This repository is used to store screenshots and written documentation for each lab session. As Git was not covered, I used GitHub App to clone the repository onto my local machine. 
 
 2️⃣ Downloading Ubuntu ISO
 
