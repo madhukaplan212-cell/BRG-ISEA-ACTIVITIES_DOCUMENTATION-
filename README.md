@@ -394,3 +394,10 @@ Loops are essential for automating repetitive tasks in Linux systems.
 These screenshots show scripts used to test the existence of files and directories.
 Conditional statements were applied to handle different file system scenarios.
 This is useful for validating resources before executing scripts.
+
+4️⃣ Script Execution, Errors & Debugging
+<p align="center"><img src="STEP 1 3b.png" width="70%"></p> <p align="center"><img src="STEP 2 3b.png" width="70%"></p> <p align="center"><img src="STEP 3 3b.png" width="70%"></p> <p align="center"><img src="./3B-1(A,B)/STEP 4 ERROR AND DEBUGG.png" width="70%"></p>
+
+These screenshots demonstrate script execution and error handling.
+Debugging techniques were used to identify and correct script issues.
+Understanding errors is important for writing reliable bash scripts.
