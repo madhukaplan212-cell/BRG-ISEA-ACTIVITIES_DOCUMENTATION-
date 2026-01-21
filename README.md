@@ -300,6 +300,8 @@ Overall, this exercise demonstrates that TCO is a practical and necessary tool f
 
 Session 2B - PM
 ------------------------------
+Since i did my execution of the activities on different days i had different AWS Public IP addresses used. I also created two different instances, hence certain screenshots might have been executed using aws-key-VM.pem or madhu-https-key.pem. 
+
 
 1️⃣ Cloud Platform Access / VM Environment Setup
 <p align="center"> <img src="./Screenshot 2026-01-20 192747.png" width="70%"> </p><p align="center"> <img src="Screenshot 2026-01-15 175220.png" width="70%"> </p>
@@ -337,7 +339,7 @@ This prepares the system for hosting a web application.
 <p align="center"> <img src="STEP 6.png" width="70%"> </p><p align="center"> 
 This is the first screenshot after the command. I didnt add the middle parts as it there are many. 
 
-<img src="STEP 11.png" width="70%"> </p>
+<p align="center"><img src="STEP 11.png" width="70%"> </p>
 This is the last screenshot after the command. 
 
 <p align="center"> <img src="STEP 12.png" width="70%"> </p><p align="center"> <img src="STEP 13.png" width="70%"> </p><p align="center"> <img src="STEP 6.png" width="70%"> </p><p align="center"> <img src="STEP 14.png" width="70%"> </p>
@@ -369,5 +371,26 @@ This verifies basic web hosting functionality before applying security.
 There was an error and i had to debug using some commands and I got the CertBot certificate and this was done by restarting apache2. These screenshots covers that section. 
 
 
+Session 3A - AM
+------------------------------
 
+1️⃣ Variables, Echo & Arithmetic Operations
+<p align="center"><img src="Echo and Variables.png" width="70%"></p> <p align="center"><img src="Arithmetic with brackets.png" width="70%"></p>
 
+These screenshots show the use of variables and the echo command in bash scripting.
+Basic arithmetic operations were performed using brackets to ensure correct calculations.
+This demonstrates foundational scripting concepts required for automation tasks.
+
+2️⃣ Looping and Summation Logic
+<p align="center"><img src="Loop Summation.png" width="70%"></p>
+
+This screenshot demonstrates the use of loops to perform repeated calculations.
+A summation operation was implemented using a loop structure.
+Loops are essential for automating repetitive tasks in Linux systems.
+
+3️⃣ File and Directory Testing
+<p align="center"><img src="Test files and directories.png" width="70%"></p> <p align="center"><img src="Test files and directories(2).png" width="70%"></p> <p align="center"><img src="Test files and directories (3).png" width="70%"></p> <p align="center"><img src="Test files and directories (4).png" width="70%"></p> <p align="center"><img src="Test files and directories (5).png" width="70%"></p>
+
+These screenshots show scripts used to test the existence of files and directories.
+Conditional statements were applied to handle different file system scenarios.
+This is useful for validating resources before executing scripts.
