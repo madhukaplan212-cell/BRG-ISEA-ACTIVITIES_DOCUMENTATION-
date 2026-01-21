@@ -396,8 +396,29 @@ Conditional statements were applied to handle different file system scenarios.
 This is useful for validating resources before executing scripts.
 
 4️⃣ Script Execution, Errors & Debugging
-<p align="center"><img src="STEP 1 3b.png" width="70%"></p> <p align="center"><img src="STEP 2 3b.png" width="70%"></p> <p align="center"><img src="STEP 3 3b.png" width="70%"></p> <p align="center"><img src="./3B-1(A,B)/STEP 4 ERROR AND DEBUGG.png" width="70%"></p>
+<p align="center"><img src="STEP 1 3b.png" width="70%"></p> <p align="center"><img src="STEP 2 3b.png" width="70%"></p> <p align="center"><img src="STEP 3 3b.png" width="70%"></p> 
 
 These screenshots demonstrate script execution and error handling.
 Debugging techniques were used to identify and correct script issues.
 Understanding errors is important for writing reliable bash scripts.
+
+5️⃣ Task Scheduling Using Cron
+<p align="center"><img src="Crontab.png" width="70%"></p> <p align="center"><img src="Crontab 2.png" width="70%"></p>
+
+These screenshots show the use of crontab to schedule automated tasks.
+Scheduled jobs allow scripts to run at specific times without manual execution.
+This is commonly used for maintenance and automation tasks.
+
+6️⃣ Docker Installation via CLI
+<p align="center"><img src="Docker installation.png" width="70%"></p> <p align="center"><img src="Docker installation 2.png" width="70%"></p> <p align="center"><img src="Docker installation 3.png" width="70%"></p>
+
+These screenshots demonstrate installing Docker using the command line.
+The installation process was verified to ensure Docker was set up correctly.
+Docker is used to run applications in isolated environments.
+
+7️⃣ Step-by-Step Service & System Configuration
+<p align="center"><img src="STEP 1 4a.png" width="70%"></p> <p align="center"><img src="STEP 2 4a.png" width="70%"></p> <p align="center"><img src="STEP 3 4a.png" width="70%"></p> <p align="center"><img src="STEP 4 4a.png" width="70%"></p> <p align="center"><img src="STEP 5 4a.png" width="70%"></p> <p align="center"><img src="STEP 64a.png" width="70%"></p> <p align="center"><img src="STEP 7 4a.png" width="70%"></p> <p align="center"><img src="STEP 8 4a.png" width="70%"></p> <p align="center"><img src="STEP 9 4a.png" width="70%"></p> <p align="center"><img src="STEP 10 4a.png" width="70%"></p> <p align="center"><img src="STEP 11 4a.png" width="70%"></p>
+
+These screenshots show a structured step-by-step process of system and service configuration.
+Each step confirms successful execution of commands in the Linux environment.
+This demonstrates practical command-line administration skills.
