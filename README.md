@@ -371,7 +371,7 @@ This verifies basic web hosting functionality before applying security.
 There was an error and i had to debug using some commands and I got the CertBot certificate and this was done by restarting apache2. These screenshots covers that section. 
 
 
-Session 3A - AM
+Session 3B - PM
 ------------------------------
 
 1️⃣ Variables, Echo & Arithmetic Operations
@@ -415,6 +415,10 @@ This is commonly used for maintenance and automation tasks.
 These screenshots demonstrate installing Docker using the command line.
 The installation process was verified to ensure Docker was set up correctly.
 Docker is used to run applications in isolated environments.
+
+
+Session 4A - PM
+------------------------------
 
 7️⃣ Step-by-Step Service & System Configuration
 <p align="center"><img src="STEP 1 4a.png" width="70%"></p> <p align="center"><img src="STEP 2 4a.png" width="70%"></p> <p align="center"><img src="STEP 3 4a.png" width="70%"></p> <p align="center"><img src="STEP 4 4a.png" width="70%"></p> <p align="center"><img src="STEP 5 4a.png" width="70%"></p> <p align="center"><img src="STEP 64a.png" width="70%"></p> <p align="center"><img src="STEP 7 4a.png" width="70%"></p> <p align="center"><img src="STEP 8 4a.png" width="70%"></p> <p align="center"><img src="STEP 9 4a.png" width="70%"></p> <p align="center"><img src="STEP 10 4a.png" width="70%"></p> <p align="center"><img src="STEP 11 4a.png" width="70%"></p>
